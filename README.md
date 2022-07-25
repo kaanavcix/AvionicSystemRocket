@@ -10,4 +10,9 @@ We re using
 -GPS AIR 530
 
 
+it has algorithm and telemetry code 
+
+even trial phase
+
+
 
